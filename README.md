@@ -150,7 +150,7 @@ EOF all count create  destroy  help  quit  show  update
 (hbnb)
 ```
 
-* Quit the console:
+*To Quit the console:
 ```bash
 (hbnb) quit
 $
